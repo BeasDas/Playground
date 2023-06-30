@@ -1,0 +1,33 @@
+.div-1{
+    background-color: #1e1c1c;
+    border-radius: 15px;
+}
+.navbar{
+    display: flex;
+}
+.navbar ul li a {
+    text-decoration: none;
+    color: #f3f3eb;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.navbar ul li{
+    list-style: none;
+    float: left;
+    margin-left: auto;
+    margin-right: auto;
+}
+.navbar ul {
+    float: right;
+}
+.nav-section {
+    margin-left: 550px;
+}
+.login-section {
+    margin-left: 620px; /* 700-32= 668px*/
+    
+}
+.navbar-logo {
+    margin-top: 16px;
+    margin-left: 50px;
+}
