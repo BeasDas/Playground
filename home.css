@@ -30,6 +30,7 @@ body{
 background: linear-gradient(180deg, transparent 60%, #ff92b3 50%);
 background-position-y: bottom 13px;
 }
-.playground-subtext{
-text-decoration: solid;
+.highlight-subtext{
+text-decoration: underline;
+color: black;
 }
