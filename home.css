@@ -43,6 +43,7 @@ color: black;
     padding: 20px 15px 20px 15px ; 
     border-radius: 15px;
     font-family:'Roboto', sans-serif;
+    font-weight: 300;
     font-size: 30px;
     margin-right: 20px;
     margin-top: 48px;
@@ -67,5 +68,28 @@ color: black;
 }
 .hiw-container{
     width: 500px;
-    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 80px;
+}
+.icon{
+    width: 120px;
+    height: 120px;
+    background-color: #f3f3eb;
+    border: solid 5px #000;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.icon-box{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.hiw-headline{
+    text-align: center;
+}
+.hiw-text{
+    text-align: center;
 }
