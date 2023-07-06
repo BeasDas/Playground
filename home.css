@@ -24,6 +24,7 @@ body{
     float: left;
     margin-left: 10px;
     margin-top: 40px;
+    margin-right: 10px;
 }
 .head-highlight{
 background: linear-gradient(180deg, transparent 60%, #ff92b3 50%);
