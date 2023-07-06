@@ -1,3 +1,34 @@
 body{
     background-color: #f3f3eb;
 }
+.div-2{
+    display: flex;
+}
+.intro-img{
+    width: 50%;
+    float: right;
+    margin-top: 126px ;
+}
+.headline-text{
+    font-size: 175px;
+    font-family:'Roboto', sans-serif;
+    color: black;
+    font-weight: 500;
+    margin-top: 126px;
+    float: left;
+}
+.headline-subtext{
+    font-size: 26px;
+    color: #6c6c6c;
+    font-family:'Roboto', sans-serif;
+    float: left;
+    margin-left: 10px;
+    margin-top: 40px;
+}
+.head-highlight{
+background: linear-gradient(180deg, transparent 60%, #ff92b3 50%);
+background-position-y: bottom 13px;
+}
+.playground-subtext{
+text-decoration: solid;
+}

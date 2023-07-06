@@ -19,6 +19,7 @@
 }
 .navbar ul {
     float: right;
+    font-family:'Roboto', sans-serif;
 }
 .nav-section {
     margin-left: 550px;
