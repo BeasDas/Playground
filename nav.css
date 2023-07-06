@@ -4,6 +4,9 @@
 }
 .navbar{
     display: flex;
+    height: 70px;
+    justify-content: center;
+    align-items: center;
 }
 .navbar ul li a {
     text-decoration: none;
@@ -25,10 +28,10 @@
     margin-left: 550px;
 }
 .login-section {
-    margin-left: 620px; /* 700-32= 668px*/
+    margin-left: 580px; /* 700-32= 668px*/
+    margin-right: 40px;
     
 }
 .navbar-logo {
-    margin-top: 16px;
     margin-left: 50px;
 }
