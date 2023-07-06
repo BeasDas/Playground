@@ -47,3 +47,25 @@ color: black;
     margin-right: 20px;
     margin-top: 48px;
 }
+
+.div-3{
+    margin-top: 126px;
+
+
+}
+
+.container{
+   width: 1800px;
+   height: 500px; 
+   background-color: #ff92b3;
+   margin-left: auto;
+   margin-right: auto;
+   border-color: #000;
+   border: solid 7px;
+   border-radius: 30px;
+   display: flex;
+}
+.hiw-container{
+    width: 500px;
+    margin: auto;
+}
