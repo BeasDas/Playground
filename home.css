@@ -122,12 +122,11 @@ body {
 
 .profile-container {
     display: flex;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .profile-box {
-    width: 450px;
-    height: 450px;
-    background-color: white;
     margin-left: auto;
     margin-right: auto;
     position: relative;
@@ -138,13 +137,16 @@ body {
     margin-left: auto;
     margin-right: auto;
     width: 100%;
+    border: solid 6px black;
+    border-radius: 35px;
 }
 .box-text{
     position: absolute;
     bottom: 8px;
     left: 16px;
     font-family: 'Roboto', sans-serif;
-    color: #f3f3eb;
+    color: white;
+    margin-bottom: 5px;
 }
 .profile-text-1{
     font-size: 50px;
