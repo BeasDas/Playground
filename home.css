@@ -1,7 +1,13 @@
 body {
     background-color: #f3f3eb;
+    margin: 0%;
 }
 
+.mainbody{
+    margin-top: 23px;
+    margin-left: 23px;
+    margin-right: 23px;
+}
 .div-2 {
     display: flex;
 }
@@ -119,6 +125,16 @@ body {
     margin-top: 15px;
 }
 
+.div-4{
+    margin-top: 126px;
+}
+.mtt-headline{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 100px;
+    text-align: center;
+    margin-bottom: 70px;
+}
 
 .profile-container {
     display: flex;
@@ -156,4 +172,66 @@ body {
     font-size: 25px;
     font-weight: 400;
     padding-left: 2px;
+}
+
+#div-5{
+    margin-top: 126px;
+    background-color: #1E1C1C;
+}
+
+.subscribe-headline{
+    padding-top: 124px;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 82px;
+    color: #F3F3EB;
+    font-weight: 700;
+}
+.subscribe-text{
+    padding-top: 12px;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 22px;
+    color: #F3F3EB;
+    font-weight: 700;
+}
+.your-email{
+    text-align: center;
+    margin-top: 68px;
+    margin-bottom: 42px;
+}
+.textfield{
+    background-color: #1e1c1c;
+    font-family:'Roboto', sans-serif;
+    padding-left: 10px;
+    width: 600px;
+    height: 60px;
+    border: #f3f3eb solid 4px;
+    border-radius: 20px;
+    font-size: 20px;
+    color: #747474;
+    
+}
+.subscribe-button{
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    justify-content: center;
+}
+.sub-button{
+    background-color: #1e1c1c;
+    border: none;
+    color: #f3f3eb;
+    width: 350px;
+    /* top-right-bottom-left */
+    padding: 10px 8px;
+    border-radius: 15px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 25px;
+    border: #f3f3eb solid 4px;
+    border-radius: 30px;
+    display: grid;
+    justify-content: center;
+    margin-bottom: 50px;
 }
