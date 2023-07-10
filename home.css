@@ -235,3 +235,22 @@ body {
     justify-content: center;
     margin-bottom: 50px;
 }
+
+.div-6{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    background-color: #FF92B3;
+}
+.div-6 div{
+    align-items: center;
+    margin: 20px;
+    width: 100%;
+    text-align: center;
+}
+.footer-1{
+    margin-top: 0px;
+    margin-left: 5px;
+    padding-right: 100px;
+    width: 300%;
+}
